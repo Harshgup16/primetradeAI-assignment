@@ -116,7 +116,7 @@ jupyter notebook primetrade_analysis.ipynb
 
 Fear days produce the **highest average daily PnL** (+24% vs Greed), even though win rate is marginally lower. This means winning trades on Fear days are **disproportionately large** — traders who stay disciplined capture bigger dislocations. The higher drawdown proxy confirms greater two-way volatility.
 
-![Performance Chart](charts/chart1_performance_fear_greed.png)
+![Performance Chart](https://raw.githubusercontent.com/Harshgup16/primetradeAI-assignment/main/chart1_performance_fear_greed.png)
 
 ---
 
@@ -130,7 +130,7 @@ Fear days produce the **highest average daily PnL** (+24% vs Greed), even though
 
 Counterintuitively, traders are **more active** and use **larger positions** during Fear — not Greed. Experienced participants treat Fear as a buying opportunity, scaling in aggressively. Long/short ratio drops on Greed days, consistent with smart-money profit-taking as markets turn euphoric.
 
-![Behavior Chart](charts/chart2_behavior_fear_greed.png)
+![Behavior Chart](https://raw.githubusercontent.com/Harshgup16/primetradeAI-assignment/main/chart2_behavior_fear_greed.png)
 
 ---
 
@@ -138,8 +138,8 @@ Counterintuitively, traders are **more active** and use **larger positions** dur
 
 Low-leverage traders show **stable PnL** across all regimes. High-leverage traders show the **highest PnL on Fear days** but also the **highest drawdown** — they capture the upside but absorb severe losses when wrong. The Loser segment bleeds most on Fear days due to over-leveraged, poorly-timed entries.
 
-![Leverage Segments](charts/chart3_leverage_segments.png)
-![Consistency Segments](charts/chart4_consistency_segments.png)
+![Leverage Segments](https://raw.githubusercontent.com/Harshgup16/primetradeAI-assignment/main/chart3_leverage_segments.png)
+![Consistency Segments](https://raw.githubusercontent.com/Harshgup16/primetradeAI-assignment/main/chart4_consistency_segments.png)
 
 ---
 
@@ -156,7 +156,7 @@ KMeans clustering (k=4) identified four archetypes:
 
 Whale Traders perform best on Fear days (large size × large price dislocations). Hyperactive Traders eke out more on Greed days when price action is smoother and directional.
 
-![Archetypes](charts/chart10_archetypes.png)
+![Archetypes](https://raw.githubusercontent.com/Harshgup16/primetradeAI-assignment/main/chart10_archetypes.png)
 
 ---
 
